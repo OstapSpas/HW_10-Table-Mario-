@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    width: 800px;
+    height: 800px;
+}
+
+.red {
+    background: red;
+}
+
+.brown {
+    background: rgb(153, 76, 4);
+}
+
+.skin {
+    background: rgb(224, 196, 119);
+}
+
+.black {
+    background: #000;
+}
+
+.blue {
+    background: blue;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.shoes {
+    background: rgb(117, 57, 1);
+}
